@@ -9,6 +9,7 @@ A high-performance HTTP proxy cache server and RESTful NoSQL cache server based 
 * [Introduction](#introduction)
 * [Performance](#performance)
 * [Getting Started](#getting-started)
+* [Download](Download.md)
 * [Usage](#usage)
 * [Directives](#directives)
 * [Cache](#cache)
